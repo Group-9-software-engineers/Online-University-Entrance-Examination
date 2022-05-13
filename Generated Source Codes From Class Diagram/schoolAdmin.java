@@ -1,9 +1,9 @@
 package class;
 
 /**
- * @author dell
+ * @author lenevo
  * @version 1.0
- * @created 11-May-2022 12:00:22 PM
+ * @created 06-May-2022 09:07:02 PM
  */
 public class schoolAdmin {
 
